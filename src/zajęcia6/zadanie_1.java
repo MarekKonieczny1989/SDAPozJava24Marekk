@@ -34,7 +34,7 @@ public class zadanie_1 {
             }
         }
         System.out.println();
-        System.out.println("Trafiłeś "+licznik + "z 6 cyfr" );
+        System.out.println("Trafiłeś "+licznik + " z 6 cyfr" );
         }
     }
 
